@@ -1,0 +1,18 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente Netlify (se relevante)
+.netlify/
+node_modules/
+
+# Arquivos sensíveis (nunca suba no GitHub!)
+.env
+.env.local
+*.key
+*.pem
+
+# Logs e diretórios temporários
+*.log
+tmp/
+temp/
