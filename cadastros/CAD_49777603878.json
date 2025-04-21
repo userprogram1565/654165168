@@ -1,0 +1,32 @@
+{
+    "nome": "Alisson",
+    "sobrenome": "Santos Pinheiro",
+    "corporatename": "",
+    "tradingname": "",
+    "cnpj": "",
+    "stateregistration": "",
+    "nascimento": "03\/02\/1999",
+    "genero": "1",
+    "cpf": "497.776.038-78",
+    "cep": "45810-000",
+    "rua": "RUA MONTA PASCOAL",
+    "numero_casa": "255",
+    "complemento": "CASA",
+    "bairro": "FREI CALIXTO",
+    "cidade": "PORTOSEGURO",
+    "uf": "BA",
+    "telefone": "+5573998052143",
+    "email": "graficafokus@outlook.com",
+    "confirme": "graficafokus@outlook.com",
+    "senha": "03029999",
+    "senha_c": "03029999",
+    "cacauloveraccept": "true",
+    "valor2": "5.00",
+    "frete": "0.00",
+    "genero_texto": "Masculino",
+    "meta": {
+        "data_cadastro": "2025-04-10 06:01:26",
+        "ip": "170.82.14.189",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/134.0.0.0 Safari\/537.36"
+    }
+}
